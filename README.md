@@ -1,12 +1,14 @@
 ### Hi there, I'm Cheikh Ahmadou Bamba 👋,
 
-A Computer Science Engineer 🎓🖥️,Full Stack Web developer🎯 and DevOps learner from Dakar.
+A Computer Science Engineer 🎓🖥️,Full Stack developer🎯 and DevOps learner from Dakar.
 
 - 👨‍💻 Full Stack Developer
-- 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) <!-- - 🌱 Currently learning Svelte. -->
-- 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder)
-- 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/).
+- 👨‍💻 Junior Mobile Developer
+- 👨‍💻 Learning DevOps and Security
+<!-- - 🎥 Learn Web Development from me [@RoadsideCoder](https://www.youtube.com/roadsidecoder) - 🌱 Currently learning Svelte. -->
+- 📚 What do I believe ? Lifelong learning.
+  <!-- - 📫 How to reach me: [Instagram](https://instagram.com/roadsidecoder) - [@Piyush_eon](https://instagram.com/piyush_eon) or [@RoadsideCoder](https://instagram.com/roadsidecoder) -->
+  <!-- - 🎙 Freelance [Voice Over Artist](https://piyushvo.netlify.app/). -->
 
 **Languages:**
 
