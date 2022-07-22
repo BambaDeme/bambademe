@@ -38,4 +38,5 @@ A Computer Science Engineer 🎓🖥️,Full Stack developer🎯 and DevOps lear
 <a href="mailto:cheikhbambademe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cheikhbambademe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<a href="https://app.daily.dev/__ahmadou"><img src="https://api.daily.dev/devcards/5ee21393835c45fe9f01cbfe0da3a528.png?r=q8n" width="400" alt="Bamba Deme's Dev Card"/></a>
  <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
